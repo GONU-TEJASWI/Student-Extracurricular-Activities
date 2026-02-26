@@ -3,10 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://GONU-TEJASWI.github.io/Student-Extracurricular-Activities,
-
-Public
-",
+  "homepage": "https://GONU-TEJASWI.github.io/Student-Extracurricular-Activities",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
